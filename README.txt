@@ -1,6 +1,6 @@
 This folder contains the R code and data files associated with the publication: 
-TITLE: Soil microbial communities and biogeochemistry during human decomposition differs between seasons: evidence from year-long trials
-AUTHORS: Lois S. Taylor, Allison R. Mason, Hannah L. Noel, Michael E. Essington, Veronica A. Brown, Mary C. Davis, Dawnie W. Steadman, and Jennifer M. DeBruyn 
+Lois S Taylor, Allison R Mason, Hannah L Noel, Michael E Essington, Mary C Davis, Veronica A Brown, Dawnie W Steadman, Jennifer M DeBruyn, Transient hypoxia drives soil microbial community dynamics and biogeochemistry during human decomposition, FEMS Microbiology Ecology, Volume 100, Issue 10, October 2024, fiae119, https://doi.org/10.1093/femsec/fiae119
+
 
 TEMPERATURE, MOISTURE, ELECTRICAL CONDUCTIVITY SENSOR DATA
 The following files are required:
