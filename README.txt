@@ -111,7 +111,7 @@ Study: Spring or winter data.
 LogADD: Log of values in the ADD column.
 
 
-MOTHUR OUTPUT AND METADATA FILES FOR PHYLOSEQ PIPELINE
+MOTHUR AMPLICON LIBRARY OUTPUT AND METADATA FILES FOR PHYLOSEQ PIPELINE
 Spring study ITS Mothur output and metadata files:
 NIJARFSP.trim.contigs.pcr.good.unique.precluster.pick.agc.0.05.cons.taxonomy
 NIJARFSP.trim.contigs.pcr.good.unique.precluster.pick.agc.shared
