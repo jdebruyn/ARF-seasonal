@@ -111,11 +111,25 @@ Study: Spring or winter data.
 LogADD: Log of values in the ADD column.
 
 
-METADATA FILES FOR PHYLOSEQ PIPELINE
-The following data files are required:
+MOTHUR OUTPUT AND METADATA FILES FOR PHYLOSEQ PIPELINE
+Spring study ITS Mothur output and metadata files:
+NIJARFSP.trim.contigs.pcr.good.unique.precluster.pick.agc.0.05.cons.taxonomy
+NIJARFSP.trim.contigs.pcr.good.unique.precluster.pick.agc.shared
 SP_ITS_metadata.csv
+
+Spring study 16S Mothur output and metadata files:
+NIJARFSP16S.shared
+NIJARFSP16S.taxonomy
 SP_16S_metadata.csv
+
+Winter study ITS Mothur output and metadata files:
+NIJARFWIN.trim.contigs.pcr.good.unique.precluster.pick.agc.0.05.cons.taxonomy
+NIJARFWIN.trim.contigs.pcr.good.unique.precluster.pick.agc.shared
 WIN_ITS_metadata.csv
+
+Winter study 16S Mothur output and metadata files:
+NIJARFWIN16S.shared
+NIJARFWIN16S.taxonomy
 WIN_16S_metadata.csv
 
 SP_ITS_metadata.csv, SP_16S_metadata.csv, WIN_ITS_metadata.csv, and WIN_16S_metadata.csv are the Spring and Winter seasonal ITS and 16S metadata sets
